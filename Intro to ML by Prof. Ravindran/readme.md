@@ -1,10 +1,42 @@
 # NPTEL-301 : Introduction to Machine Learning by Prof. Ravindran
+
 0. Introduction to Machine Learning
-https://www.youtube.com/watch?v=r4sgKrRL2Ys
+   https://www.youtube.com/watch?v=r4sgKrRL2Ys
 
 
-## 
+Week 0: Probability Theory, Linear Algebra, Convex Optimization (Recap)
 
+
+Week 2: Linear Regression, Multivariate Regression, Subset Selection, Shrinkage Methods, Principal Component
+Regression, Partial Least squares
+
+Week 3: Linear Classification, Logistic Regression, Linear Discriminant Analysis
+
+Week 4: Perceptron, Support Vector Machines
+
+Week 5: Neural Networks - Introduction, Early Models, Perceptron Learning, Backpropagation, Initialization, Training
+& Validation, Parameter Estimation - MLE, MAP, Bayesian Estimation
+
+Week 6: Decision Trees, Regression Trees, Stopping Criterion & Pruning loss functions, Categorical Attributes,
+Multiway Splits, Missing Values, Decision Trees - Instability Evaluation Measures
+
+Week 7: Bootstrapping & Cross Validation, Class Evaluation Measures, ROC curve, MDL, Ensemble Methods -
+Bagging, Committee Machines and Stacking, Boosting
+
+Week 8: Gradient Boosting, Random Forests, Multi-class Classification, Naive Bayes, Bayesian Networks
+
+Week 9: Undirected Graphical Models, HMM, Variable Elimination, Belief Propagation
+
+Week 10: Partitional Clustering, Hierarchical Clustering, Birch Algorithm, CURE Algorithm, Density-based Clustering
+
+Week 11: Gaussian Mixture Models, Expectation Maximization
+
+Week 12: Learning Theory, Introduction to Reinforcement Learning, Optional videos (RL framework, TD learning,
+Solution Methods, Applications)
+
+## Lecture Schedules
+Week 1: Introduction: Statistical Decision Theory - Regression, Classification, Bias Variance
+ 
 Week 1 - Lecture 1 - Introduction to Machine Learning
 https://www.youtube.com/watch?v=fC7V8QsPBec
 Week 1 Lecture 2 - Supervised Learning
@@ -13,8 +45,6 @@ Week 1 Lecture 3 - Unsupervised Learning
 https://www.youtube.com/watch?v=HTSCbxSxs-g
 Week 1 Lecture 4 - Reinforcement Learning
 https://www.youtube.com/watch?v=9vMpHk44XXo
-
-
 
 Week 2 Lecture 5 - Statistical Decision Theory - Regression
 https://www.youtube.com/watch?v=qNMElN-3Wmg
@@ -26,7 +56,6 @@ Week 2 Lecture 8 - Linear Regression
 https://www.youtube.com/watch?v=_M7Km1XZERU
 Week 2 Lecture 9 - Multivariate Regression
 https://www.youtube.com/watch?v=kETBe_lnfHs
-
 
 Week 3 Lecture 10 Subset Selection 1
 https://www.youtube.com/watch?v=U9bURX-UGVU
@@ -49,7 +78,6 @@ https://www.youtube.com/watch?v=2NrWhUResTg
 Week 3 Lecture 19 Linear Discriminant Analysis 3
 https://www.youtube.com/watch?v=E1bHf4BlCBQ
 
-
 Week 4 Lecture 20 Perceptron Learning
 https://www.youtube.com/watch?v=_VXGGhRprAg
 Week 4 Lecture 21 SVM - Formulation
@@ -62,7 +90,6 @@ Week 4 Lecture 24 SVM Kernels
 https://www.youtube.com/watch?v=-QDguusDi2E
 Week 4 Lecture 25 SVM - Hinge Loss Formulation
 https://www.youtube.com/watch?v=9dPjKuTYkx4
-
 
 Week 5 Lecture 26 ANN I - Early Models
 https://www.youtube.com/watch?v=olgnwStG9DE
@@ -78,7 +105,6 @@ Week 5 Lecture 31 Parameter Estimation II - Priors & MAP
 https://www.youtube.com/watch?v=qpGo87YV1R0
 Week 5 Lecture 32 Parameter Estimation III - Bayesian Estimation
 https://www.youtube.com/watch?v=5RAJL_YPPQU
-
 
 Week 6 Lecture 33 Decision Trees - Introduction
 https://www.youtube.com/watch?v=yG1nETGyW2E
@@ -109,7 +135,6 @@ https://www.youtube.com/watch?v=9Iq6pz9XJ7w
 Week 6 Lecture 46 - Minimum Description Length & Exploratory Analysis
 https://www.youtube.com/watch?v=ReJfSYzB_jc
 
-
 Week 7 Lecture 47 - Introduction to Hypothesis Testing
 https://www.youtube.com/watch?v=OGLxVh1J-xk
 Week 7 Lecture 48 - Basic Concepts
@@ -123,7 +148,6 @@ https://www.youtube.com/watch?v=RY3Ya5NGCu0
 Week 7 Lecture 52 - Confidence Intervals
 https://www.youtube.com/watch?v=3GvtQlShKmI
 
-
 Week 8 Lecture 53 - Ensemble Methods - Bagging, Committee Machines and Stacking
 https://www.youtube.com/watch?v=foWzsWFAmas
 Week 8 Lecture 54 - Boosting
@@ -134,7 +158,6 @@ Week 8 Lecture 56 - Random Forests
 https://www.youtube.com/watch?v=6K48CbOm99Y
 Week 8 Lecture 57 - Naive Bayes
 https://www.youtube.com/watch?v=1B_lrrEo5ds
-
 
 Week 9 Lecture 58 Bayesian Networks
 https://www.youtube.com/watch?v=XBbNUyWAiks
@@ -151,7 +174,6 @@ https://www.youtube.com/watch?v=VfBUglMnRUw
 Lecture 64 Multi-class Classification
 https://www.youtube.com/watch?v=WZQvKgx4BdU
 
-
 Week 10 Lecture 65 Partional Clustering
 https://www.youtube.com/watch?v=zop2zuwF_bc
 Week 10 Lecture 66 Hierarchical Clustering
@@ -164,7 +186,6 @@ Week 10 Lecture 69 The CURE Algorithm
 https://www.youtube.com/watch?v=CdEatQP0IDg
 Week 10 Lecture 70 Density Based Clustering
 https://www.youtube.com/watch?v=qrmneD5_VrM
-
 
 Week 11 Lecture 71 Gaussian Mixture Models
 https://www.youtube.com/watch?v=FK9izGvLzU8
@@ -179,7 +200,6 @@ https://www.youtube.com/watch?v=VI6eGXxsrIk
 Frequent Itemset Mining
 https://www.youtube.com/watch?v=feFSsFu1TCk
 
-
 Lecture 79 Learning Theory
 https://www.youtube.com/watch?v=urmNFMSUBF8
 Lecture 80 Introduction to Reinforcement Learning
@@ -191,7 +211,7 @@ https://www.youtube.com/watch?v=JbN2R68bZCw
 Week 6 Decision Trees Tutorial
 https://www.youtube.com/watch?v=2nRayZAt1aA
 
-Tutorials 
+Tutorials
 
 Week 4 Tutorial 4 - Optimization
 https://www.youtube.com/watch?v=EdwAd002lzQ

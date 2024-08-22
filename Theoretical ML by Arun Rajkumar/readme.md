@@ -70,7 +70,6 @@ WEEK 4	Unsupervised Learning - Estimation - Recap of MLE + Bayesian estimation, 
 
 WEEK 5	Supervised Learning - Regression - Least Squares; Bayesian view
 
-
 25. Estimating the parameters
     https://www.youtube.com/watch?v=idWmaE39OIk
 26. EM algorithm
@@ -101,7 +100,6 @@ WEEK 6	Supervised Learning - Regression - Ridge/LASSO
 
 WEEK 7	Supervised Learning - Classification - K-NN, Decision tree
 
-
 37. Ridge regression
     https://www.youtube.com/watch?v=dMB1c5NADnE
 38. Relation between solution of linear regression and ridge regression
@@ -117,7 +115,6 @@ WEEK 7	Supervised Learning - Classification - K-NN, Decision tree
 
 WEEK 8	Supervised Learning - Classification - Generative Models - Naive Bayes
 
-
 43. Introduction to Decision Trees
     https://www.youtube.com/watch?v=gXbAJGd8fO0
 44. Decision Tree Algorithm
@@ -132,7 +129,6 @@ WEEK 8	Supervised Learning - Classification - Generative Models - Naive Bayes
     https://www.youtube.com/watch?v=oTMYU7hC2bw
 
 WEEK 9	Discriminative Models - Perceptron; Logistic Regression
-
 
 49. Pitfalls of naive Bayes algorithm
     https://www.youtube.com/watch?v=RuE8SQajgxY
@@ -163,7 +159,6 @@ WEEK 10	Support Vector Machines
     https://www.youtube.com/watch?v=85BxDKkiK4c
 
 WEEK 11	Ensemble methods - Bagging and Boosting (Adaboost)
-
 
 61. Support Vector Machine
     https://www.youtube.com/watch?v=2LnQ2r7Q3-0
@@ -196,5 +191,3 @@ WEEK 12	Artificial Neural networks: Multiclass classification.
     https://www.youtube.com/watch?v=LctgFHD_RN4
 74. Summary of the course and future directions
     https://www.youtube.com/watch?v=06PP-3xUCs0
-    
-

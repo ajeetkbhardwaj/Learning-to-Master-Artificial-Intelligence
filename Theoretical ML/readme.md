@@ -24,45 +24,45 @@ WEEK 12	Artificial Neural networks: Multiclass classification.
 
 
 ## Lectures
-Introduction to machine learning
+1. Introduction to machine learning
 https://www.youtube.com/watch?v=KMcUe7GQnf0
-Paradigms of machine learning
+2. Paradigms of machine learning
 https://www.youtube.com/watch?v=ipjggYk7zXs
-Representation Learning: Part 1
+3. Representation Learning: Part 1
 https://www.youtube.com/watch?v=1V_M4JxygGk
-Representation Learning: Part 2
+4. Representation Learning: Part 2
 https://www.youtube.com/watch?v=mU6CzvuUM00
-Representation Learning: Part 3
+5. Representation Learning: Part 3
 https://www.youtube.com/watch?v=t0bA3rsZ6qM
-Principal component analysis: Part 1
+6. Principal component analysis: Part 1
 https://www.youtube.com/watch?v=_GOADM-SdKU
-Principal component analysis: Part 2
+7. Principal component analysis: Part 2
 https://www.youtube.com/watch?v=o__dWBLqPhQ
-Issues with PCA
+8. Issues with PCA
 https://www.youtube.com/watch?v=sgU4zbO-W4M
-Time-complexity issue with PCA
+9. Time-complexity issue with PCA
 https://www.youtube.com/watch?v=pwpDf2_Pytk
-Feature Transformation
+10. Feature Transformation
 https://www.youtube.com/watch?v=zcxnCyVSh70
-Kernel PCA
+11. Kernel PCA
 https://www.youtube.com/watch?v=K46tdjqxM0w
-Kernel Functions
+12. Kernel Functions
 https://www.youtube.com/watch?v=G6rMGLhw3IQ
-Introduction to Clustering
+13. Introduction to Clustering
 https://www.youtube.com/watch?v=A3UNtCuMm7Y
-K-means Clustering (Lloyd's algorithm)
+14. K-means Clustering (Lloyd's algorithm)
 https://www.youtube.com/watch?v=QrXQ5cMzphA
-Convergence of K-means algorithm
+15. Convergence of K-means algorithm
 https://www.youtube.com/watch?v=5geXmawaImk
-Nature of clusters produced by K-means
+16. Nature of clusters produced by K-means
 https://www.youtube.com/watch?v=EY03QHaaSBY
-Initialization of centroids, K-means++
+17. Initialization of centroids, K-means++
 https://www.youtube.com/watch?v=Cbrdtxq6bdk
-Choice of K
+18. Choice of K
 https://www.youtube.com/watch?v=4-ycWgdMXD4
-Introduction to Estimation
+19. Introduction to Estimation
 https://www.youtube.com/watch?v=382yNz5LoX0
-Maximum Likelihood Estimation
+20. Maximum Likelihood Estimation
 https://www.youtube.com/watch?v=9dQSEn0ooTc
 Bayesian estimation
 https://www.youtube.com/watch?v=ZnkRbtZLPm4

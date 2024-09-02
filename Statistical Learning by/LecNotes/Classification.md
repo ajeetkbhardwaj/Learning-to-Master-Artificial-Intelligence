@@ -33,4 +33,9 @@ Note : It's better to estimate the probability of claim that feature belongs to 
 
 ---
 Can we use Linear Regression Models for Classification Tasks ?
-> yes, but it's not better to use it for classification tasks because sometimes it make produce the outcome out of box. eg : In binary classification it may produce sometime less than zero or greater than zero.
+> yes, but it's not better to use it for classification tasks because sometimes it make produce the outcome out of box. eg : In binary classification it may produce sometime less than zero or greater than zero. Hence we should't try out the linear regression model
+
+Note : Even different encoding to the categorical variable can change the model prediction if we apply linear regression. Linear regression is equivalent to the linear disciminant analysis.
+
+> Can we use the Logistic Regression for Classification tasks ?
+> Yes, because it models the probability that category $y \in Y$. eg : Default loan prediction dataset, logistic regression can predict the probability of being default.

@@ -1,17 +1,29 @@
 # Learning to Master Artificial Intelligence
 
+## Labs : Hands on Practices
 
+<h3 align='center'>Programming for AI</h3>
+[Lab-0 : ]()
 
+<h3 align='center'>Mathematics for AI</h3>
 
+<h3 align='center'>Machine Learning Frameworks</h3>
 
+11. [Lab-11](./Practical ML by  Ashish Tendulkar/Labs/Lab-01.ipynb)
 
+<h3 align='center'></h3>
 
+<h3 align='center'>Programming for AI</h3>
 
+<h3 align='center'>Programming for AI</h3>
 
+<h3 align='center'>Programming for AI</h3>
 
+<h3 align='center'>Programming for AI</h3>
 
+<h3 align='center'>Programming for AI</h3>
 
-
+<h3 align='center'>Programming for AI</h3>
 
 ## References and Acknowledgements
 

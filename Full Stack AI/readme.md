@@ -7,13 +7,4 @@ How to implement an end to end NLP project with deployment using github action T
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p7V4Aa7qEpw?si=9YfVpYnsag8KjKEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<center>
- <iframe width="560" 
-         height="315" 
-         src="https://www.youtube.com/embed/p7V4Aa7qEpw?si=9YfVpYnsag8KjKEa" 
-         title="YouTube video player" 
-         frameborder="0" 
-         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-         allowfullscreen>
- </iframe>
-</center>
+[![](https://markdown-videos-api.jorgenkh.no/youtube/9YfVpYnsag8KjKEa)](https://youtu.be/9YfVpYnsag8KjKEa)

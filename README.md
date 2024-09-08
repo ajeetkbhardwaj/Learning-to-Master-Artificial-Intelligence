@@ -3,13 +3,14 @@
 ## Labs : Hands on Practices
 
 <h3 align='center'>Programming for AI</h3>
-[Lab-0 : ]()
+
+[Lab-0 : ](Practical ML by  Ashish Tendulkar/readme.md)
 
 <h3 align='center'>Mathematics for AI</h3>
 
 <h3 align='center'>Machine Learning Frameworks</h3>
 
-11. [Lab-11](./Practical ML by  Ashish Tendulkar/Labs/Lab-01.ipynb)
+11. [Lab-11 :](https://github.com/ajeetkbhardwaj/Learning-to-Master-Artificial-Intelligence/blob/main/Practical%20ML%20by%20%20Ashish%20Tendulkar/Labs/Lab-01.ipynb)
 
 <h3 align='center'></h3>
 

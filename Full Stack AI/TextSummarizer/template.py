@@ -16,7 +16,7 @@ project_name = 'TextSummarizer'
 # 
 list_of_files = [
     ".github/workflows/.gitkeep",
-    f"scr/{project_name}/__init__.py", # constructor file to be a local package
+    f"src/{project_name}/__init__.py", # constructor file to be a local package
     f"src/{project_name}/components/__init__.py", # all basic components
     f"src/{project_name}/utils/__init__.py",
     f"src/{project_name}/utils/common.py",
@@ -33,8 +33,7 @@ list_of_files = [
     "requirements.txt",
     "setup.py",
     "research/trails.ipynb",
-    "test.py",
-    "testexample.py"
+    "test.py"
 ]
 
 for filepath in list_of_files:

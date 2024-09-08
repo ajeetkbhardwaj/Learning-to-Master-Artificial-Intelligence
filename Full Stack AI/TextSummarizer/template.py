@@ -32,8 +32,9 @@ list_of_files = [
     "Dockerfile",
     "requirements.txt",
     "setup.py",
-    "research/trails.py",
-    "test.py"
+    "research/trails.ipynb",
+    "test.py",
+    "testexample.py"
 ]
 
 for filepath in list_of_files:

@@ -37,3 +37,5 @@
 ### 4. [Bayesian Machine Learning: Parameter Space - Borealis AI](https://www.borealisai.com/research-blogs/bayesian-machine-learning-parameter-space/)
 
 ### 5. [Bayesian Machine Learning: Function Space - Borealis AI](https://www.borealisai.com/research-blogs/bayesian-machine-learning-function-space/)
+
+## Conclusion

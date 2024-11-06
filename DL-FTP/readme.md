@@ -18,7 +18,6 @@ Applications of CNN and RNN models for various computer vision and Natural Langu
 
 ## Table of Contents
 
-
 | WEEK 1  | History of Deep Learning, McCulloch Pitts Neuron, Thresholding Logic, Perceptron Learning Algorithm and Convergence                                               |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | WEEK 2  | Multilayer Perceptrons (MLPs), Representation Power of MLPs, Sigmoid Neurons, Gradient Descent                                                                    |
@@ -33,16 +32,7 @@ Applications of CNN and RNN models for various computer vision and Natural Langu
 | WEEK 11 | Gated Recurrent Units (GRUs), Long Short Term Memory (LSTM) Cells, Solving the vanishing gradient problem with LSTM                                               |
 | WEEK 12 | Encoder Decoder Models, Attention Mechanism, Attention over images, Hierarchical Attention, Transformers.                                                         |
 
-
-
-
-
-
-
-
-
-
-### Lectures 
+### Lectures
 
 Brief history of Deep learning - Neuron Doctrine - AI Winter
 [https://www.youtube.com/watch?v=zdmEzqpAG70](https://www.youtube.com/watch?v=zdmEzqpAG70)
@@ -181,12 +171,13 @@ Decoder block
 "Analysis of K-Maps In Complex Boolean LogicMinimization"
 [https://www.youtube.com/watch?v=_yFMy5WrKSk](https://www.youtube.com/watch?v=_yFMy5WrKSk)
 
-
 ## Books and References
 
+1. [Ian Goodfellow and Yoshua Bengio and Aaron Courville. Deep Learning. An MIT Press book. 2016.](https://www.deeplearningbook.org/#:~:text=The%20Deep%20Learning%20textbook%20is%20a)
 
-Ian Goodfellow and Yoshua Bengio and Aaron Courville. Deep Learning. An MIT Press book. 2016.
+2. [Charu C. Aggarwal. Neural Networks and Deep Learning: A Textbook. Springer. 2019.](https://www.charuaggarwal.net/neural.htm)
+3. [Understanding Deep Learning by Simon J.D Prince](https://udlbook.github.io/udlbook/)
+4. [Deep Dive into Deep Learning by Aston Zhang](https://d2l.ai/index.html)
 
-Charu C. Aggarwal. Neural Networks and Deep Learning: A Textbook. Springer. 2019.
 
 ## Summary

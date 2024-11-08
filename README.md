@@ -1,5 +1,14 @@
 # Learning to Master Artificial Intelligence
 
+## Machine Learning - Frameworks
+
+### 1. HuggingFace for Machine Learning
+
+1. What is **HuggingFace** ?
+
+### 2. Kaggle for Data Science
+
+
 ## Labs : Hands on Practices
 
 <h3 align='center'>Programming for AI</h3>
@@ -25,6 +34,15 @@
 <h3 align='center'>Programming for AI</h3>
 
 <h3 align='center'>Programming for AI</h3>
+
+## Courses
+
+[Stanford CS 224N | Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
+
+
+## Resources
+
+[Overview - Stanza](https://stanfordnlp.github.io/stanza/)
 
 ## References and Acknowledgements
 

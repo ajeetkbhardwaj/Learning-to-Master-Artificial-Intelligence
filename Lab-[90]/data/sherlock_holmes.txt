@@ -1,0 +1,37 @@
+To Sherlock Holmes she is always _the_ woman. I have seldom heard him
+mention her under any other name. In his eyes she eclipses and
+predominates the whole of her sex. It was not that he felt any emotion
+akin to love for Irene Adler. All emotions, and that one particularly,
+were abhorrent to his cold, precise but admirably balanced mind. He
+was, I take it, the most perfect reasoning and observing machine that
+the world has seen, but as a lover he would have placed himself in a
+false position. He never spoke of the softer passions, save with a gibe
+and a sneer. They were admirable things for the observer—excellent for
+drawing the veil from men’s motives and actions. But for the trained
+reasoner to admit such intrusions into his own delicate and finely
+adjusted temperament was to introduce a distracting factor which might
+throw a doubt upon all his mental results. Grit in a sensitive
+instrument, or a crack in one of his own high-power lenses, would not
+be more disturbing than a strong emotion in a nature such as his. And
+yet there was but one woman to him, and that woman was the late Irene
+Adler, of dubious and questionable memory.
+
+
+When to Use ML At All.
+ML projects have a higher failure rate than software projects in general. One reason that's worth acknowledging is that for many applications, ML is fundamentally still research. Therefore, we shouldn't aim for 100% success.
+Additionally, many ML projects are doomed to fail even before they are undertaken due to a variety of reasons:
+They are technically infeasible or poorly scoped.
+They never make the leap to a production environment.
+The broader organization is not all on the same page about what would be considered success criteria for them.
+They solve the problem that you set out to solve but do not solve a big enough problem to be worth their complexity.
+The bar for your ML projects should be that their value must outweigh not just the cost of developing them but also the additional complexity that these ML systems introduce to your software (as introduced in the classic paper "The High-Interest Credit Card of Technical Debt").
+In brief, ML systems erode the boundaries between other systems, rely on expensive data dependencies, are commonly plagued by system design anti-patterns, and are subject to the instability of the external world.
+Before starting an ML project, ask yourself:
+Are you ready to use ML? More specifically, do you have a product? Are you collecting data and storing it in a sane way? Do you have the right people?
+Do you really need ML to solve this problem? More specifically, do you need to solve the problem at all? Have you tried using rules or simple statistics to solve the problem?
+Is it ethical to use ML to solve this problem? We have a whole lecture about ethics!
+How to Pick Problems to Solve with ML
+Just like any other project prioritization, you want to look for use cases that have high impact and low cost:
+High-impact problems are likely to be those that address friction in your product, complex parts of your pipeline, places where cheap prediction is valuable, and generally what other people in your industry are doing.
+Low-cost projects are those with available data, where bad predictions are not too harmful.
+

@@ -1,0 +1,75 @@
+site_name: Learning to Master Artificial Intelligence
+theme:
+  name: material
+  features:
+    - header.autohide
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+  font:
+    text: Libre Baskerville
+  icon:
+    logo: material/library-outline
+  favicon: assets/favicon.jpg
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - toc:
+      permalink: ⚓︎
+
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://ajeetkbhardwaj.github.io/ajeetkbhardwaj
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/ajeetkumar09/
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+repo_url: https://github.com/ajeetkbhardwaj/Learning-to-Master-Artificial-Intelligences
+repo_name: Ajeet Kumar
+
+copyright: Copyright &copy; 2024 Ajeet Kumar
+
+nav:
+  - Home: index.md
+  - Lab-0:
+    - def/Eigenvalue_and_Eigenvector.md
+    - def/Linear_Transformations.md
+  - Lab-10:
+  - Lab-20:
+  - Lab-30:
+  - Lab-40:
+  - Lab-50:
+  - Lab-60:
+  - Lab-70:
+  - Lab-80:
+  - Lab-90:
